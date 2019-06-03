@@ -13,4 +13,3 @@ for position in range(69):
     if(c != 0):
       print(100/len(i)*c,"% ",alll[position]," = ",c) 
   c = 0
-		
